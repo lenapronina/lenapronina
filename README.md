@@ -31,20 +31,11 @@ P.S. Я за мир, любовь и удобные интерфейсы 🖤
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
 
-## Connect with me  
+## Я в соцсетях  
 <a href="https://github.com/lenapronina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -58,6 +49,6 @@ P.S. Я за мир, любовь и удобные интерфейсы 🖤
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lenapronina&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lenapronina&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenapronina&hide_border=true&layout=compact" align="left" />  
