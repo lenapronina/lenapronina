@@ -1,9 +1,9 @@
 # Привет, меня зовут Лена  
   
 
-#### Я начинающий фронтенд разработчик, сейчас работаю в команде [WINDY.APP](https://windy.app)  
+#### Я junior frontend developer, занимаюсь веб-разработкой в команде [WINDY.APP](https://windy.app)  
 
-Еще факты обо мне:  
+Про меня:  
   
 - люблю верстку и делать красиво   
   
@@ -31,7 +31,7 @@ P.S. Я за мир, любовь и удобные интерфейсы 🖤
 </div>
 </td></tr></table>  
 
-## Я в соцсетях  
+## Для связи  
 <a href="https://github.com/lenapronina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -40,6 +40,9 @@ P.S. Я за мир, любовь и удобные интерфейсы 🖤
 </a>
 <a href="https://www.facebook.com/lenaemaya" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:kaknetak@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%232E87FB.svg?&style=for-the-badge&logo=gmail&color=ffffff alt=gmail style="margin-bottom: 5px;" />
 </a>  
 
 ## Github Stats  
