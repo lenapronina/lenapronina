@@ -11,7 +11,11 @@
   
 - всегда помню про README и документацию👻  
   
-P.S. Я за мир, любовь и удобные интерфейсы 🖤 
+P.S. Я за мир, любовь и удобные интерфейсы 🖤
+
+Мои контакты:</br>
+почта - kaknetak@gmail.com</br>
+телеграм - @lena_emaya
 
 ## Мой стек  
 <table><tr><td valign="top" width="100%">
@@ -31,7 +35,7 @@ P.S. Я за мир, любовь и удобные интерфейсы 🖤
 </div>
 </td></tr></table>  
 
-## Для связи  
+## Соцсети  
 <a href="https://github.com/lenapronina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -41,8 +45,8 @@ P.S. Я за мир, любовь и удобные интерфейсы 🖤
 <a href="https://www.facebook.com/lenaemaya" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:kaknetak@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%232E87FB.svg?&style=for-the-badge&logo=gmail&color=ffffff alt=gmail style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/lena-pronina-532835210/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%232E87FB.svg?&style=for-the-badge&logo=linkedin&color=blue alt=gmail style="margin-bottom: 5px;" />
 </a>  
 
 ## Github Stats  
